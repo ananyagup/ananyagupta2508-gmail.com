@@ -13,5 +13,3 @@ Let us begin with the innermost lists. Lets take [a,b] as an example. So, the do
 We can take example of [[0,1],[5,5]]. The document for this example is "my(0) mother(1) was(2) happy(3).(4) She(5) gave(6) me(7) a(8) chocolate(9)". Hence, "my[0] mother[1]" is referenced again as "she[5]". As you can see, each word(and even the punctuation) is given an index, which is used within the coreference cluster. The same example is used in code.py and you can try it out yourself!! 
 
 
-
-[(code.py)]
